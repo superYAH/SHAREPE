@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  key: MyString
+  latitude: MyString
+  longitude: MyString
+  title: MyString
+  intro: MyString
+  date: 2012-07-17
+  dataini: 2012-07-17 23:44:13
+  datefin: 2012-07-17 23:44:13
+  follow: 1
+
+two:
+  key: MyString
+  latitude: MyString
+  longitude: MyString
+  title: MyString
+  intro: MyString
+  date: 2012-07-17
+  dataini: 2012-07-17 23:44:13
+  datefin: 2012-07-17 23:44:13
+  follow: 1
